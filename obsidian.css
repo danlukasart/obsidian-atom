@@ -264,6 +264,30 @@ mjx-container[jax='CHTML'] {
   line-height: 1.2;
 }
 
+.cm-header-1 {
+  color: var(--red);
+}
+
+.cm-header-2 {
+  color: var(--orange);
+}
+
+.cm-header-3 {
+  color: var(--yellow);
+}
+
+.cm-header-4 {
+  color: var(--green);
+}
+
+.cm-header-5 {
+  color: var(--blue);
+}
+
+.cm-header-6 {
+  color: var(--purple);
+}
+
 h1, h2, h3, h4, h5, h6, strong, b, .view-header-title {
   font-weight: 600;
 }
